@@ -41,3 +41,8 @@
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravindujayakodi00&show_icons=true&locale=en&layout=compact" alt="ravindujayakodi00" /></p>
 
+<hr/>
+
+### 📈 GitHub Activity Graph:
+[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BEPb&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph)
+
