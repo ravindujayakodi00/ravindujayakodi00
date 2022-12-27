@@ -44,5 +44,5 @@
 <hr/>
 
 ### 📈 GitHub Activity Graph:
-[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ravindujayakodi00&theme=github-compact)](https://github.com/ravindujayakodi00/github-readme-activity-graph)
+[![ravindujayakodi00's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ravindujayakodi00&theme=github-compact)](https://github.com/ravindujayakodi00/github-readme-activity-graph)
 
