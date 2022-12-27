@@ -41,8 +41,7 @@
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravindujayakodi00&show_icons=true&locale=en&layout=compact" alt="ravindujayakodi00" /></p>
 
-<hr/>
 
-### 📈 GitHub Activity Graph:
-[![ravindujayakodi00's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ravindujayakodi00&theme=github-compact)](https://github.com/ravindujayakodi00/github-readme-activity-graph)
+
+
 
