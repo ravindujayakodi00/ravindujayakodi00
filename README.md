@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a target="blank" href="https://linkedin.com/in/ravindu-jayakodi-59713a246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravindu-jayakodi-59713a246" height="30" width="40" /></a>
+<a target="_blank" href="https://linkedin.com/in/ravindu-jayakodi-59713a246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravindu-jayakodi-59713a246" height="30" width="40" /></a>
 <a href="https://instagram.com/_ravindu__jay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ravindu__jay" height="30" width="40" /></a>
 </p>
 
