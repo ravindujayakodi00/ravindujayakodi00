@@ -1,6 +1,10 @@
+<!--   my-header-img -->
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png" alt="">
 <h1 align="center">Hi 👋, I'm Ravindu Jayakodi</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindujayakodi00&label=Profile%20views&color=0e75b6&style=flat" alt="ravindujayakodi00" /> </p>
+
+
 
 "Hello, my name is Ravindu Jayakodi and I am a software engineering undergraduate with a passion for full stack development. I have experience with a variety of technologies including ReactJS, Node.js, Express, MongoDB and Java. I am always looking to learn and grow as a developer, and I am excited to share my skills and projects with the community on GitHub. Thank you for visiting my profile."
 
@@ -31,6 +35,12 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
 </p>
+
+<hr />
+
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ravindujayakodi00&theme=github-compact)](https://github.com/ravindujayakodi00/github-readme-activity-graph)
 
 <hr />
 
