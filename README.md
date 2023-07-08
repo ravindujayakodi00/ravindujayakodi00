@@ -6,7 +6,7 @@
 
 
 
-"Hello, my name is Ravindu Jayakodi and I am a software engineering undergraduate with a passion for full stack development. I have experience with a variety of technologies including ReactJS, Node.js, Express, MongoDB and Java. I am always looking to learn and grow as a developer, and I am excited to share my skills and projects with the community on GitHub. Thank you for visiting my profile."
+"Hello, my name is Ravindu Jayakodi and I am a software engineering undergraduate with a passion for full stack development. I have experience with a variety of technologies including ReactJS, Angular, Node.js, Java and Spring Boot. I am always looking to learn and grow as a developer, and I am excited to share my skills and projects with the community on GitHub. Thank you for visiting my profile."
 
 📫 How to reach me: ravindujayakodi00@gmail.com
 
