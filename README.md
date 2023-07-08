@@ -20,12 +20,12 @@
 
 <hr />
 
-<h3>HackerRank Certifications</h1>
+<h3>HackerRank Certifications:</h1>
 <br/>
 <img src="certifications.png">
 <hr />
 
-<h3>HackerRank Badges</h1>
+<h3>HackerRank Badges:</h1>
 <br/>
 <img src="badges.png">
 <hr />
